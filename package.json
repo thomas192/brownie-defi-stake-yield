@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ethersproject/units": "^5.5.0"
+  }
+}
